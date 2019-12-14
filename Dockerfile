@@ -1,4 +1,4 @@
-FROM renovate/pip@sha256:bf7fcc2b3583c86617574616ed6214c94a96dd0c13f0f47ec3c3f5b3d5c6c3cb
+FROM renovate/pip@sha256:319f7dc5bb4f76c066dec6e0a038ed0582a83c881f3faac8fe886fe30a0918f8
 
 ENV PATH="/home/ubuntu/.local/bin:$PATH"
 
